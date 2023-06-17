@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Check out the live working: [https://kiran-note-hive.vercel.app/](https://kiran-note-hive.vercel.app/)
+### Check out the live working: [https://kiran-quick-notes.vercel.app/](https://kiran-quick-notes.vercel.app/)
 
 ## Available Scripts
 
